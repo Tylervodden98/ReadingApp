@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8954645147",
+    "project_id": "jetreaderapp-9520b",
+    "storage_bucket": "jetreaderapp-9520b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8954645147:android:18dc3f47a747a45db2943e",
+        "android_client_info": {
+          "package_name": "com.example.readerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8954645147-7pq254dehd6r62m6147bober4e663s8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD9qLIpt5VEUHkYdPpN0uogQAPTrLDnN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8954645147-7pq254dehd6r62m6147bober4e663s8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
